@@ -64,25 +64,4 @@ Cliente *Riachuelo* solicita extração de documentos NFCe:
 
 ---
 
-## 🗂️ Estrutura Recomendada de Arquivos
-
-```bash
-extrator-xml/
-├── main.py
-├── core/
-│   ├── extraction.py
-│   ├── input_handler.py
-│   ├── operations.py
-│   ├── keys.py
-│   └── utils.py
-├── services/
-│   ├── api.py
-│   ├── db_utils.py
-│   └── email_utils.py
-├── database/
-│   └── database.py
-├── docs/
-│   └── exemplo.png
-├── config_template.json
-├── README.md
-└── .gitignore
+> Projeto criado por [Davi Bachmann](https://github.com/DaviBachmann) — Cientista de Dados em formação, com foco em automação, dados e performance.
